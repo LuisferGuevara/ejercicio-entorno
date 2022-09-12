@@ -1,0 +1,14 @@
+body {
+    background-color: olive;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 1200px;
+
+}
+
+h1{
+    color: gold;
+    font-size: 10em;
+    border: 1px solid goldenrod;
+}
